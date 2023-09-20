@@ -1,6 +1,7 @@
 # simplyfisoftechDSA
 
 ---
+![image](https://github.com/shivamj291/simplyfisoftechDSA/assets/113995939/66139a69-ae0e-4243-b6a1-d6efc0097302)
 
 **Code Explanation:**
 
